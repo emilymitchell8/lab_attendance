@@ -1,5 +1,8 @@
 ---
-title: "lab_attendance"
+title: "Lab Attendance"
+author: 
+  name: Emily Mitchell
 format: html
 ---
 
+## In this class, I have learned how to use R studio packages to view and manipulate data. 
